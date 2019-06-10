@@ -1,0 +1,9 @@
+[package]
+name = "daily-challenge-rs"
+version = "0.1.0"
+authors = ["riz"]
+edition = "2018"
+
+[dependencies]
+throw = "0.1.7"
+stopwatch = "0.0.7"
